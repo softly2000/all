@@ -1,0 +1,47 @@
+#home, #services, #about, #contact {
+    margin: 0;
+    padding: 0;
+}
+
+#home {
+    text-align: center;
+    height: 900px;
+    background-color: #00cbfd;
+    font-size: 50px;
+} 
+
+#services {
+    text-align: center;
+    height: 900px;
+    background-color: #f0e006;
+    font-size: 50px;
+}
+
+#about {
+    text-align: center;
+    height: 900px;
+    background-color: #1bcc0b;
+    font-size: 50px;
+}
+
+#contact {
+    text-align: center;
+    height: 900px;
+    background-color: #f19202;
+    font-size: 50px;
+}
+
+.nav-links {
+    height: 900px;
+    width: 600px;
+    margin-top: auto;
+    margin-left: 300px;
+}
+
+.nav-links img {
+    margin-top: 100px;
+}
+
+p {
+    padding-top: 450px;
+}
